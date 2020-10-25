@@ -1,2 +1,5 @@
 # hello-world
-starting repository
+
+Hi!
+
+Iñigo here, I'm learning DS.
